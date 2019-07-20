@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763368538339",
+    "firebase_url": "https://incubateind-aab7e.firebaseio.com",
+    "project_id": "incubateind-aab7e",
+    "storage_bucket": "incubateind-aab7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763368538339:android:325d4dae57a717e8",
+        "android_client_info": {
+          "package_name": "com.example.smartmete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763368538339-937br0rtflrm3gh3ksgq45knjuijheu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartmete",
+            "certificate_hash": "2ea407d6e39e43b5510358900c6f2ea7ec561feb"
+          }
+        },
+        {
+          "client_id": "763368538339-cb9803992e9ajbaj3pjjokfhp354ao7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WafED3SipG1ilBb7LQZQmZtmlmpCivU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763368538339-cb9803992e9ajbaj3pjjokfhp354ao7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
